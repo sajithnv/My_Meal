@@ -1696,7 +1696,10 @@ display:none;
 	}
 }
 @media only screen and (max-width: 320px) {
-	
+	.tm-head-grid {
+		margin: 1% 1% 1% 27%;
+		width: 48%;
+	}
 	.wrap{
 		width:95%;
 	}
