@@ -1702,7 +1702,7 @@ display:none;
 }
 @media only screen and (max-width: 320px) {
 	.top-icon-style{
-		position: fixed;margin: 95% 0% 0% 91%;width: 6%;height: auto;
+		position: fixed;margin: 90% 0% 0% 85%;width: 6%;height: auto;
 	}
 	.tm-head-grid {
 		margin: 1% 1% 1% 27%;
