@@ -1622,7 +1622,7 @@ display:none;
 
 @media only screen and (max-width: 480px) {
 	.top-icon-style{
-		position: fixed;margin: 97% 0% 0% 93%;width: 5%;height: auto;
+		position: fixed;margin: 98% 0% 0% 90%;width: 6%;height: auto;
 	}
 	.wrap{
 		width:95%;
@@ -1702,7 +1702,7 @@ display:none;
 }
 @media only screen and (max-width: 320px) {
 	.top-icon-style{
-		position: fixed;margin: 97% 0% 0% 93%;width: 5%;height: auto;
+		position: fixed;margin: 98% 0% 0% 90%;width: 6%;height: auto;
 	}
 	.tm-head-grid {
 		margin: 1% 1% 1% 27%;
